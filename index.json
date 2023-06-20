@@ -1,0 +1,21 @@
+{
+    "stationary": [
+       {
+        "id":1,
+        "name":"khoki"
+       },
+       {
+        "id":2,
+        "name":"Pen"
+       },
+       {
+        "id":3,
+        "name":"pencil"
+       },
+       {
+        "id":4,
+        "name":"highlighter"
+       }
+       
+    ]
+}
